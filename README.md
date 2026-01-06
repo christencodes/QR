@@ -16,8 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Christenally/QR/blob/main/index.html)
-- Live Site URL: [Live](https://christenally.github.io/QR)
+- Solution URL: [Solution](https://github.com/christencodes/QR/blob/main/index.html)
+- Live Site URL: [Live](https://christencodes.github.io/QR)
 
 ### Built with
 
@@ -27,5 +27,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Christen Allison](https://github.com/Christenally)
-- Frontend Mentor - [@Christenally](https://www.frontendmentor.io/profile/Christenally)
+- Website - [Christen Allison](https://github.com/christencodes)
+- Frontend Mentor - [@Christenally](https://www.frontendmentor.io/profile/christencodes)
